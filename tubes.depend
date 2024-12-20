@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1734089822 source:c:\modul\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1734089375 c:\modul\tubes\tubes.h
+	<iostream>
+
+1734089825 source:c:\modul\tubes\tubes.cpp
+	"tubes.h"
+
+1734506259 source:c:\users\bapak\onedrive\desktop\tubes\main.cpp
+	"tubes.h"
+	<iostream>
+
+1734506025 c:\users\bapak\onedrive\desktop\tubes\tubes.h
+	<iostream>
+
+1734506154 source:c:\users\bapak\onedrive\desktop\tubes\tubes.cpp
+	"tubes.h"
+
+1734694779 source:c:\users\bapak\onedrive\desktop\tugas pantek\main.cpp
+	"tubes.h"
+	<iostream>
+
+1734694682 c:\users\bapak\onedrive\desktop\tugas pantek\tubes.h
+	<iostream>
+
+1734707210 source:c:\users\bapak\onedrive\desktop\tugas pantek\tubes.cpp
+	"tubes.h"
+
+1734707376 source:c:\users\bapak\onedrive\desktop\11_103012300378_103012330160\main.cpp
+	"tubes.h"
+	<iostream>
+
+1734694682 c:\users\bapak\onedrive\desktop\11_103012300378_103012330160\tubes.h
+	<iostream>
+
+1734707210 source:c:\users\bapak\onedrive\desktop\11_103012300378_103012330160\tubes.cpp
+	"tubes.h"
+
